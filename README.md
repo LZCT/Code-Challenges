@@ -29,9 +29,31 @@
 
 1041 - Coordinates of a Point
 
+1042 - Simple Sort
+
 1044 - Multiples
 
+1047 - Game Time with Minutes
+
+1048 - Salary Increase
+
+1049 - Animal
+
 1051 - Taxes
+
+1078 - Multiplication Table
+
+1080 - Highest and Position
+
+1145 - Logical Sequence 2
+
+1149 - Summing Consecutive Integers
+
+1151 - Easy Fibonacci
+
+1153 - Simple Factorial
+
+1893 - Moon Phases
 
 1921 - Guilherme and His Kites
 
